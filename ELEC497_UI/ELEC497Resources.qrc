@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>fastforwardButton.png</file>
+        <file>playButton.png</file>
+        <file>rewindButton.png</file>
+        <file>stopButton.png</file>
+        <file>rightFootMask.png</file>
+        <file>pause.png</file>
+    </qresource>
+</RCC>
